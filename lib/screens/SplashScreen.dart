@@ -1,4 +1,4 @@
-import 'package:aslab_travel/main.dart';
+// import 'package:aslab_travel/main.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
